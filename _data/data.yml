@@ -56,10 +56,10 @@ career-profile:
 
 experiences:
     - role: Research Analyst Assistant (part-time)
-      time: Jan/2019 - Present
-      company: WorkSafeBC, Richmond-BC, Canada
-      details: |
-        Some description
+      # time: Jan/2019 - Present
+      # company: WorkSafeBC, Richmond-BC, Canada
+      # details: |
+      #   Some description
         
 
     - role: Advanced Analytics Co-op
