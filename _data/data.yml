@@ -181,13 +181,7 @@ skills:
 
     toolset:
       - name: Python & Pandas
-        level: 90%
-
-      - name: Machine Learning Algorithms
-        level: 80%
-
-      - name: Data Visualization
-        level: 85%        
+        level: 90%             
 
       - name: SQL
         level: 80%
@@ -198,11 +192,39 @@ skills:
       - name: QlikView / NPrinting
         level: 95%
 
+      - name: Matplotlib, Seaborn & Plotly
+        level: 75%
+
+      - name: D3.js
+        level: 70%  
+
       - name: Project Management
         level: 90%
 
-      - name: Business Processing Modeling
-        level: 90%
+soft_skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Pandas
+        level: 90%             
+
+      - name: SQL
+        level: 80%
+
+      - name: Tableau
+        level: 80%
+
+      - name: QlikView / NPrinting
+        level: 95%
+
+      - name: Matplotlib, Seaborn & Plotly
+        level: 75%
+
+      - name: D3.js
+        level: 70%  
+
+      - name: Project Management
+        level: 90%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
