@@ -66,20 +66,26 @@ experiences:
       time: Apr/2019 - Dec/2019
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
-        **Machine Learning:** Applied gradient boosting algorithms (XGBoost and LightGBM) to identify Employers in the province with high likelihood of having serious injuries
+        **Machine Learning:** Applied gradient boosting algorithms (*XGBoost* and *LightGBM*) to identify Employers in the province with high likelihood of having serious injuries
 
-        Natural Language Processing:
+        **Natural Language Processing:**
 
-        - Applied text mining (SpaCy) and sentiment analysis (VADER and TextBlob) techniques to identify themes and topics in prevention inspections data
-        - Applied Text Summarization (Extraction-based and Abstraction-based) techniques to summarize descriptions of claims
+        - Applied *text mining* (SpaCy) and *sentiment analysis* (VADER and TextBlob) techniques to identify themes and topics in prevention inspections data
+        - Applied *Text Summarization* (Extraction-based and Abstraction-based) techniques to summarize descriptions of claims
 
-        Data Engineering:
+        **Data Engineering:**
 
-        - Extraction of unstructured data from PDF documents using OCR libraries in Python and performing deep cleaning in extracted data
+        - Extraction of unstructured data from PDF documents using OCR libraries in Python and performing *deep cleaning* in extracted data
         - Developed advanced SQL scripts to substitute legacy scripts
-        - Visualization: Developed Tableau dashboards and D3.js graphics to support the communication of project results
+        - Visualization: Developed *Tableau* dashboards and *D3.js* graphics to support the communication of project results
 
-        Participated in weekly R&D meetings to present solutions that could possibly enhance the business value
+        Participated in weekly *R&D sessions* to present solutions that could possibly enhance the business value
+
+
+
+
+
+
 
 education:
     - degree: MSc in Big Data
@@ -87,7 +93,6 @@ education:
       time: 2017 - 2019
       details: |
         Disciplines taken: 
-
           - CMPT 726 - Machine Learning
           - CMPT 741 - Data Mining
           - CMPT 732 - Programming for Big Data I
