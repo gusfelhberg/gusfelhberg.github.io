@@ -205,26 +205,17 @@ soft_skills:
     title: Soft Skills
 
     toolset:
-      - name: Python & Pandas
-        level: 90%             
+      - name: Adaptability
+        level: 100%             
 
-      - name: SQL
-        level: 80%
+      - name: Teamwork
+        level: 100%
 
-      - name: Tableau
-        level: 80%
+      - name: Leadership
+        level: 85%
 
-      - name: QlikView / NPrinting
-        level: 95%
-
-      - name: Matplotlib, Seaborn & Plotly
-        level: 75%
-
-      - name: D3.js
-        level: 70%  
-
-      - name: Project Management
-        level: 90%        
+      - name: Process Improvement Mindset
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
