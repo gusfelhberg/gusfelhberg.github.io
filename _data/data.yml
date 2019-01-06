@@ -79,7 +79,7 @@ experiences:
         - Developed advanced SQL scripts to substitute legacy scripts
         - Visualization: Developed *Tableau* dashboards and *D3.js* graphics to support the communication of project results
 
-        Participated in weekly *R&D sessions* to present solutions that could possibly enhance the business value
+        Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
     - role: IT Technical Manager
       time: Nov/2016 - Jul/2017
@@ -89,35 +89,50 @@ experiences:
         - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a QlikView dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
         - Coordinated the development of a Python/PostgreSQL application to support the process of nominating people to strategic positions in the Federal Government
 
+    - role: Deputy Member - Board of Administration
+      time: Mar/2017 – Nov/2018
+      company: Brazilian Network Information Center / Núcleo de Informação e Coordenação do Ponto BR - NIC.br - Brasilia, DF, Brazil
+      details: 
+
+    - role: Deputy Member
+      time: Nov/2016 - Jun/2017
+      company: Brazilian Internet Steering Committee/CGI.br - Brasilia, DF, Brazil
+      details: |
+        Representative of the Executive Office of the Presidency of the Republic within the Brazilian Internet Steering Committee (CGI.br), a multistakeholder body responsible for establishing strategic directives related to the use and development of the Internet in Brazil.
+
     - role: IT Advisor
       time: Jan/2013 - Nov/2016
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
-        Some description
+        - Provide IT solutions to support the monitoring of the main Brazilian public projects (education, health, infrastructure, etc) 
+        - Development of Dashboards using QlikView and NPrinting 
+        - IT Contract Manager (over 14 million reais)
 
     - role: IT Analyst
       time: Nov/2010 - Jan/2013
       company: Ministry of Planning, Budget and Management - Brasilia, DF, Brazil
       details: |
-        Some description
+        - Developed scripts and routines to analyze procurement processes data to identify frauds and bots, mainly in Reverse Auction processes 
+        - Extracted data and generated reports using MicroStrategy regarding public procurement processes to support the Logistics Department
 
     - role: Business Process Analyst
       time: May/2010 - Oct/2010
       company: Infotec Consulting (Client Petrobras) – Vitória, ES, Brazil
       details: |
-        Some description
+        Mapping business processes of the pre-salt fields of the major oil and gas company in Brazil. 
 
     - role: Project Manager
       time: Mar/2008 - May/2009
       company: Accenture (Client Vale) – Vitória, ES, Brazil
       details: |
-        Some description
+        - Management of IT projects regarding HR and Law processes 
+        - Worked in an outsourcing contract for Vale (third largest mining company in the world)
 
     - role: Ontology Developer
       time: Jan/2007 - Feb/2008
       company: zAgile, Inc. – Vitória, ES, Brazil
       details: |
-        Some description
+        Development and analysis of domain ontologies using OWL (Ontology Web Language)
 
 
 education:
@@ -146,19 +161,24 @@ education:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
 
     assignments:
       - title: Context-Based Text Summarization
         link: "https://github.com/gusfelhberg/ContextBasedTextSummarization"
         tagline: "A seq2seq model for Text Summarization developed in TensorFlow to allow automatic selection of the best model to summarize the input text. To operationalize it, I developed a Flask application to allow the user to request the summarization in a more friendly way."
 
-      - title: Delta
-        link: "#"
+      - title: Parallelized Committee Machine, Programming for Big Data I, SFU
+        link: "https://github.com/gusfelhberg/BigDataProject"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      - title: Parallelized Committee Machine, Programming for Big Data I, SFU
+        link: "https://github.com/gusfelhberg/DataMining"
+        tagline:
+
+      - title: Recommender System, Data Mining, SFU
+        link: "https://github.com/gusfelhberg/BigDataProject"
+        tagline: Development of a Recommender System for Yelp using Python, Git, and Kaggle
 
 skills:
     title: Skills &amp; Proficiency
