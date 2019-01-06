@@ -198,10 +198,10 @@ skills:
       - name: QlikView / NPrinting
         level: 95%
 
-      - name: Matplotlib, Seaborn & Plotly
+      - name: Matplotlib, Seaborn, Plotly & D3.js
         level: 75%
 
-      - name: D3.js
+      - name: Git
         level: 70%  
 
       - name: Project Management
