@@ -164,17 +164,17 @@ projects:
     intro:
 
     assignments:
-      - title: Context-Based Text Summarization
+      - title: Context-Based Text Summarization, Natural Language Processing Course, SFU
         link: "https://github.com/gusfelhberg/ContextBasedTextSummarization"
         tagline: "A seq2seq model for Text Summarization developed in TensorFlow to allow automatic selection of the best model to summarize the input text. To operationalize it, I developed a Flask application to allow the user to request the summarization in a more friendly way."
 
-      - title: Parallelized Committee Machine, Programming for Big Data I, SFU
+      - title: Parallelized Committee Machine, Programming for Big Data I Course, SFU
         link: "https://github.com/gusfelhberg/BigDataProject"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Comparison of committee machines implemented using Scikit-Learn and Spark MLlib"
 
-      - title: Recommender System, Data Mining, SFU
-        link: "https://github.com/gusfelhberg/BigDataProject"
-        tagline: Development of a Recommender System for Yelp using Python, Git, and Kaggle
+      - title: Recommender System, Data Mining Course, SFU
+        link: "https://github.com/gusfelhberg/DataMining"
+        tagline: "Development of a Recommender System for Yelp using Python"
 
 skills:
     title: Technical Skills
@@ -183,7 +183,7 @@ skills:
       - name: Python & Pandas
         level: 90%             
 
-      - name: scikit-learn
+      - name: Scikit-Learn
         level: 80%
 
       - name: Hadoop / PySpark / MLlib
