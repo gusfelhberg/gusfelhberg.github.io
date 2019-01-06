@@ -81,10 +81,43 @@ experiences:
 
         Participated in weekly *R&D sessions* to present solutions that could possibly enhance the business value
 
+    - role: IT Technical Manager
+      time: Nov/2016 - Jul/2017
+      company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
+      details: |
+        - Coordinated a team of 14 analysts to develop data solutions to support the process of monitoring the most relevant projects executed by the Federal Government
+        - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a QlikView dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
+        - Coordinated the development of a Python/PostgreSQL application to support the process of nominating people to strategic positions in the Federal Government
 
+    - role: IT Advisor
+      time: Jan/2013 - Nov/2016
+      company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
+      details: |
+        Some description
 
+    - role: IT Analyst
+      time: Nov/2010 - Jan/2013
+      company: Ministry of Planning, Budget and Management - Brasilia, DF, Brazil
+      details: |
+        Some description
 
+    - role: Business Process Analyst
+      time: May/2010 - Oct/2010
+      company: Infotec Consulting (Client Petrobras) – Vitória, ES, Brazil
+      details: |
+        Some description
 
+    - role: Project Manager
+      time: Mar/2008 - May/2009
+      company: Accenture (Client Vale) – Vitória, ES, Brazil
+      details: |
+        Some description
+
+    - role: Ontology Developer
+      time: Jan/2007 - Feb/2008
+      company: zAgile, Inc. – Vitória, ES, Brazil
+      details: |
+        Some description
 
 
 education:
