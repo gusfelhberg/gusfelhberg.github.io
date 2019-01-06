@@ -152,9 +152,9 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Context-Based Text Summarization
+        link: "https://github.com/gusfelhberg/ContextBasedTextSummarization"
+        tagline: "A seq2seq model for Text Summarization developed in TensorFlow to allow automatic selection of the best model to summarize the input text. To operationalize it, I developed a Flask application to allow the user to request the summarization in a more friendly way."
 
       - title: Delta
         link: "#"
