@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Gustavo Felhberga
+    name: Gustavo Felhberg
     tagline: Data Enthusiast
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -22,7 +22,7 @@ sidebar:
     twitter: '@felhberg'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 91700965-gustavo
+    goodreads: #91700965-gustavo
 
     languages:
       - idiom: English
