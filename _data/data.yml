@@ -31,15 +31,17 @@ sidebar:
       - idiom: Portuguese
         level: Native
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Movies/TV Shows
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Hicking
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
+          
+
 
 career-profile:
     title: Career Profile
