@@ -177,7 +177,7 @@ projects:
         tagline: Development of a Recommender System for Yelp using Python, Git, and Kaggle
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
     toolset:
       - name: Python & Pandas
@@ -202,7 +202,7 @@ skills:
         level: 90%
 
 soft_skills:
-    title: Skills &amp; Proficiency
+    title: Soft Skills
 
     toolset:
       - name: Python & Pandas
