@@ -77,7 +77,8 @@ experiences:
 
         - Extraction of unstructured data from PDF documents using OCR libraries in Python and performing *deep cleaning* in extracted data
         - Developed advanced SQL scripts to substitute legacy scripts
-        - Visualization: Developed *Tableau* dashboards and *D3.js* graphics to support the communication of project results
+        
+        **Visualization:** Developed *Tableau* dashboards and *D3.js* graphics to support the communication of project results
 
         Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
