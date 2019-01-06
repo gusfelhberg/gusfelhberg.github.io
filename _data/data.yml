@@ -183,6 +183,12 @@ skills:
       - name: Python & Pandas
         level: 90%             
 
+      - name: scikit-learn
+        level: 80%
+
+      - name: Hadoop / PySpark / MLlib
+        level: 75%
+
       - name: SQL
         level: 80%
 
