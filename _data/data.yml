@@ -52,35 +52,6 @@ career-profile:
 
       Before that, I worked as a Manager of a great team that dealt with data regarding the execution of the most relevant public projects in the Presidency of the Republic of Brazil, besides other amazing positions.
 
-
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -99,31 +70,30 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+
+education:
+    - degree: MSc in Big Data
+      university: Simon Fraser University
+      time: 2017 - 2019
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Disciplines taken: 
 
-          - Bullet point
-          - Bullet point
+          - CMPT 726 - Machine Learning
+          - CMPT 741 - Data Mining
+          - CMPT 732 - Programming for Big Data I
+          - CMPT 733 - Programming for Big Data II
+          - CMPT 706 - Algorithms for Big Data
+          - CMPT 825 - Natural Language Processing. 
+          - IAT 814 - Visualization and Visual Analytics (Spring 2019)
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - degree: BSc in Computer Science
+      university: Federal University of Espírito Santo (http://internacional.ufes.br/en/)
+      time: 2002 - 2007
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Thesis: Semantic Interoperability of Off-the-shelf application using Domain Ontologies
 
-          - Bullet point
-          - Bullet point
+
+    
 
 projects:
     title: Projects
