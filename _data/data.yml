@@ -52,7 +52,7 @@ career-profile:
 
       At this moment I am pursuing a Master's Degree in Big Data at Simon Fraser University and working at WorkSafeBC as a part-time Research Analyst Assistant.
 
-      Before that, I worked as a Manager of a great team that dealt with data regarding the execution of the most relevant public projects in the Presidency of the Republic of Brazil, besides other amazing positions.
+      Before that, I worked as a Manager of a great team of data analysts and developers working in projects regarding the execution of the most relevant public projects in the Presidency of the Republic of Brazil, besides other amazing positions.
 
 experiences:
     - role: Research Analyst Assistant | Advanced Analytics (part-time)
@@ -131,7 +131,7 @@ experiences:
       details: |
         - Provide IT solutions to support the monitoring of the main Brazilian public projects (education, health, infrastructure, etc) 
         
-        - Development of Dashboards using *QlikView* and *NPrinting* 
+        - Development of Dashboards using **QlikView** and **NPrinting** 
         
         - IT Contract Manager (over 14 million reais)
 
@@ -139,9 +139,9 @@ experiences:
       time: Nov/2010 - Jan/2013
       company: Ministry of Planning, Budget and Management - Brasilia, DF, Brazil
       details: |
-        - Developed scripts in *Java* and routines to analyze procurement processes data to identify frauds and bots, mainly in Reverse Auction processes 
+        - Developed scripts in **Java** and routines to analyze procurement processes data to identify frauds and bots, mainly in Reverse Auction processes 
         
-        - Extracted data and generated reports using *MicroStrategy* regarding public procurement processes to support the Logistics Department
+        - Extracted data and generated reports using **MicroStrategy** regarding public procurement processes to support the Logistics Department
 
     - role: Business Process Analyst
       time: May/2010 - Oct/2010
