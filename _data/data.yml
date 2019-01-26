@@ -57,9 +57,18 @@ career-profile:
 experiences:
     - role: Research Analyst Assistant (part-time)
       time: Jan/2019 - Present
-      # company: WorkSafeBC, Richmond-BC, Canada
-      # details: |
-      #   Some description
+      company: WorkSafeBC, Richmond-BC, Canada
+      details: |
+      Use of **Process Mining** techniques in Python and R to extract business processes from transactional data to be used to identify opportunities of improvement.
+
+      Development of **Natural Language Processing** scripts for **text clustering**, extraction of relevant **themes and topics** related to claims and **text summarization** using **RNN** in **TensorFlow**.
+
+      Development of **web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in **NLP** tasks.
+
+      Python libs (mostly used): scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
+      R libs (mostly used): bupaR, edeaR, processmapR, processanimateR, shiny
+      Visualization solutions: Tableau, matplotlib, seaborn, plotly, D3.js
+      Additional Tools/Technology: SQL
         
 
     - role: Advanced Analytics Co-op
