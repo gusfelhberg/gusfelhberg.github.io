@@ -211,6 +211,9 @@ skills:
       - name: SQL
         level: 80%
 
+      - name: R
+        level: 30% 
+
       - name: Tableau
         level: 80%
 
