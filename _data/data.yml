@@ -78,7 +78,7 @@ experiences:
       time: Apr/2018 - Dec/2018
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
-        **Machine Learning:** Applied gradient boosting algorithms (*XGBoost* and *LightGBM*) to identify Employers in the province with high likelihood of having serious injuries
+        **Machine Learning:** Applied gradient boosting algorithms (**XGBoost**) to identify Employers in the province with high likelihood of having serious injuries
 
         **Natural Language Processing:**
 
