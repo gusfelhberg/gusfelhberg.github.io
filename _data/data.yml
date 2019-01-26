@@ -55,15 +55,15 @@ career-profile:
       Before that, I worked as a Manager of a great team that dealt with data regarding the execution of the most relevant public projects in the Presidency of the Republic of Brazil, besides other amazing positions.
 
 experiences:
-    - role: Research Analyst Assistant (part-time)
+    - role: Research Analyst Assistant | Advanced Analytics (part-time)
       time: Jan/2019 - Present
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
-      Use of **Process Mining** techniques in Python and R to extract business processes from transactional data to be used to identify opportunities of improvement.
+      Use of *Process Mining* techniques in Python and R to extract business processes from transactional data to be used to identify opportunities of improvement.
 
-      Development of **Natural Language Processing** scripts for **text clustering**, extraction of relevant **themes and topics** related to claims and **text summarization** using **RNN** in **TensorFlow**.
+      Development of *Natural Language Processing* scripts for *text clustering*, extraction of relevant *themes and topics* related to claims and **text summarization** using *RNN* in *TensorFlow*.
 
-      Development of **web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in **NLP** tasks.
+      Development of *web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in **NLP** tasks.
 
       Python libs (mostly used): scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
       R libs (mostly used): bupaR, edeaR, processmapR, processanimateR, shiny
@@ -91,12 +91,16 @@ experiences:
 
         Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
+        Python libs (mostly used): scikit-learn, pandas (heavily), xgboost, gensim, nltk, spacy, selenium, requests, tesseract, VADER, TextBlob
+        Visualization solutions: Tableau, matplotlib, seaborn, plotly, D3.js
+        Additional Tools/Technology: SQL
+
     - role: IT Technical Manager
       time: Nov/2016 - Jul/2017
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
         - Coordinated a team of 14 analysts to develop data solutions to support the process of monitoring the most relevant projects executed by the Federal Government
-        - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a QlikView dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
+        - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a *QlikView* dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
         - Coordinated the development of a Python/PostgreSQL application to support the process of nominating people to strategic positions in the Federal Government
 
     - role: Deputy Member - Board of Administration
@@ -115,19 +119,19 @@ experiences:
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
         - Provide IT solutions to support the monitoring of the main Brazilian public projects (education, health, infrastructure, etc) 
-        - Development of Dashboards using QlikView and NPrinting 
+        - Development of Dashboards using *QlikView* and *NPrinting* 
         - IT Contract Manager (over 14 million reais)
 
     - role: IT Analyst
       time: Nov/2010 - Jan/2013
       company: Ministry of Planning, Budget and Management - Brasilia, DF, Brazil
       details: |
-        - Developed scripts and routines to analyze procurement processes data to identify frauds and bots, mainly in Reverse Auction processes 
-        - Extracted data and generated reports using MicroStrategy regarding public procurement processes to support the Logistics Department
+        - Developed scripts in *Java* and routines to analyze procurement processes data to identify frauds and bots, mainly in Reverse Auction processes 
+        - Extracted data and generated reports using *MicroStrategy* regarding public procurement processes to support the Logistics Department
 
     - role: Business Process Analyst
       time: May/2010 - Oct/2010
-      company: Infotec Consulting (Client Petrobras) – Vitória, ES, Brazil
+      company: Infotec Brasil (Client Petrobras) – Vitória, ES, Brazil
       details: |
         Mapping business processes of the pre-salt fields of the major oil and gas company in Brazil. 
 
@@ -153,11 +157,11 @@ education:
         Disciplines I have taken: 
           - CMPT 726 - Machine Learning
           - CMPT 741 - Data Mining
-          - CMPT 732 - Programming for Big Data I
+          - CMPT 732 - Programming for Big Data I (Hadoop, Spark, MLLib, scikit-learn)
           - CMPT 733 - Programming for Big Data II
           - CMPT 706 - Algorithms for Big Data
-          - CMPT 825 - Natural Language Processing. 
-          - IAT 814 - Visualization and Visual Analytics (Spring 2019)
+          - CMPT 825 - Natural Language Processing
+          - IAT 814 - Visualization and Visual Analytics (in course)
 
 
     - degree: BSc in Computer Science
@@ -200,6 +204,9 @@ skills:
 
       - name: Hadoop / PySpark / MLlib
         level: 75%
+
+      - name: Natural Language Processing (nltk, gensim & SpaCy)
+        level: 85%
 
       - name: SQL
         level: 80%
