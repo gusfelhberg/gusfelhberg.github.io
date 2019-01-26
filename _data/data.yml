@@ -58,20 +58,19 @@ experiences:
     - role: Research Analyst Assistant | Advanced Analytics (part-time)
       time: Jan/2019 - Present
       company: WorkSafeBC, Richmond-BC, Canada
-      details: |
-      Use of **Process Mining** techniques in Python and R to extract business processes from transactional data and used it to identify opportunities spots. 
+      details: Use of **Process Mining** techniques in Python and R to extract business processes from transactional data and used it to identify opportunities spots. 
       
       Development of **Natural Language Processing** scripts for text clustering, extraction of relevant **themes and topics** related to claims and **text summarization** using **RNN** in TensorFlow.
 
       Development of **web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in NLP tasks.
 
-      Python libs (mostly used): scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
+      Python libs (mostly used) - scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
 
-      R libs (mostly used): bupaR, edeaR, processmapR, processanimateR, shiny
+      R libs (mostly used) - bupaR, edeaR, processmapR, processanimateR, shiny
 
-      Visualization solutions: Tableau, matplotlib, seaborn, plotly, D3.js
+      Visualization solutions - Tableau, matplotlib, seaborn, plotly, D3.js
 
-      Additional Tools/Technology: SQL
+      Additional Tools/Technology - SQL
         
 
     - role: Advanced Analytics Co-op
@@ -94,9 +93,9 @@ experiences:
 
         Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
-        Python libs (mostly used): scikit-learn, pandas (heavily), xgboost, gensim, nltk, spacy, selenium, requests, tesseract, VADER, TextBlob
-        Visualization solutions: Tableau, matplotlib, seaborn, plotly, D3.js, scatter-text
-        Additional Tools/Technology: SQL
+        Python libs (mostly used) - scikit-learn, pandas (heavily), xgboost, gensim, nltk, spacy, selenium, requests, tesseract, VADER, TextBlob
+        Visualization solutions - Tableau, matplotlib, seaborn, plotly, D3.js, scatter-text
+        Additional Tools/Technology - SQL
 
     - role: IT Technical Manager
       time: Nov/2016 - Jul/2017
