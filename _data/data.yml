@@ -58,7 +58,9 @@ experiences:
     - role: Research Analyst Assistant | Advanced Analytics (part-time)
       time: Jan/2019 - Present
       company: WorkSafeBC, Richmond-BC, Canada
-      details: Use of **Process Mining** techniques in Python and R to extract business processes from transactional data and used it to identify opportunities spots. 
+      details: |
+
+        Use of **Process Mining** techniques in Python and R to extract business processes from transactional data and used it to identify opportunities spots. 
       
         Development of **Natural Language Processing** scripts for text clustering, extraction of relevant **themes and topics** related to claims and **text summarization** using **RNN** in TensorFlow.
 
