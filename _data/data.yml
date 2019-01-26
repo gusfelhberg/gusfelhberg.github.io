@@ -66,8 +66,6 @@ experiences:
 
         - Development of **web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in NLP tasks.
 
-        **Most used tools/techniques:**
-
         Python: scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
 
         R: bupaR, edeaR, processmapR, processanimateR, shiny
@@ -97,21 +95,22 @@ experiences:
 
         Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
-
-        **Most used tools/techniques:**
         Python: scikit-learn, pandas (heavily), xgboost, gensim, nltk, spacy, selenium, requests, tesseract, VADER, TextBlob
+
         Visualization: Tableau, matplotlib, seaborn, plotly, D3.js, scatter-text
+
         SQL
 
-    - role: IT Technical Manager
+    - role: IT Technical Manager (General Coordinator of Information)
       time: Nov/2016 - Jul/2017
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
 
-
+        - Conducted advanced analytics projects regarding the execution of public projects
+          
         - Coordinated a team of 14 analysts to develop data solutions to support the process of monitoring the most relevant projects executed by the Federal Government
         
-        - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a *QlikView* dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
+        - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a **QlikView** dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
         
         - Coordinated the development of a Python/PostgreSQL application to support the process of nominating people to strategic positions in the Federal Government
 
