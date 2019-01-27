@@ -55,31 +55,25 @@ career-profile:
       Before that, I worked as a Manager of a great team of data analysts and developers working in projects regarding the execution of the most relevant public projects in the Presidency of the Republic of Brazil, besides other amazing positions.
 
 experiences:
-    - role: Research Analyst Assistant | Advanced Analytics (part-time)
+    - role: Research Analyst Assistant | Advanced Analytics
       time: Jan/2019 - Present
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
 
-        - Use of **Process Mining** techniques in Python and R to extract business processes from transactional data and used it to identify opportunities spots. 
+        - **Process Mining** techniques in Python and R to extract business processes from transactional data. 
       
-        - Development of **Natural Language Processing** scripts for text clustering, extraction of relevant **themes and topics** related to claims and **text summarization** using **RNN** in TensorFlow.
+        - **Natural Language Processing** scripts for text clustering, extraction of relevant **themes and topics** and **text summarization** using **RNN** in TensorFlow.
 
-        - Development of **web scraping** scripts to collect external data and use of OCR techniques to extract the content of documents to be used in NLP tasks.
+        - **Web scraping** scripts to collect external data and use of OCR techniques to use the content in NLP tasks.
 
-        Python: scikit-learn, pandas (heavily), gensim, nltk, selenium, requests, tesseract
-
-        R: bupaR, edeaR, processmapR, processanimateR, shiny
-
-        Visualization: Tableau, matplotlib, seaborn, plotly, D3.js
-
-        SQL
+        - Main technologies: **SQL, Scikit-learn, Pandas, Gensim, NLTK, Selenium, Tesseract, matplotlib, bupaR, shiny, Tableau**
           
 
     - role: Advanced Analytics Co-op
       time: Apr/2018 - Dec/2018
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
-        **Machine Learning:** Applied gradient boosting algorithms (**XGBoost**) to identify Employers in the province with high likelihood of having serious injuries
+        **Machine Learning:** Developed (**XGBoost**) models to identify Employers in the province with high likelihood of having serious injuries
 
         **Natural Language Processing:**
 
@@ -95,11 +89,7 @@ experiences:
 
         Participated in weekly **R&D sessions** to present solutions that could possibly enhance the business value
 
-        Python: scikit-learn, pandas (heavily), xgboost, gensim, nltk, spacy, selenium, requests, tesseract, VADER, TextBlob
-
-        Visualization: Tableau, matplotlib, seaborn, plotly, D3.js, scatter-text
-
-        SQL
+        - Main technologies: **SQL, Scikit-learn, Pandas, XGBoost, Gensim, NLTK, SpaCy, Selenium, Tesseract, matplotlib, VADER, TextBlob, D3.js, plotly, Tableau**
 
     - role: IT Technical Manager (General Coordinator of Information)
       time: Nov/2016 - Jul/2017
@@ -109,7 +99,7 @@ experiences:
         - Conducted advanced analytics projects regarding the execution of public projects developing interactive dashboards and customizable reports
 
         - Coordinated a team of 14 analysts to develop data solutions to support the process of monitoring the most relevant projects executed by the Federal Government
-        
+
         - Brazilian Public Projects Panel: Integrated public projects data with multiple formats and developed a **QlikView** dashboard to consolidate and harmonize them to be used by all Brazilian Ministry’s Staff
         
         - Coordinated the development of a Python/PostgreSQL application to support the process of nominating people to strategic positions in the Federal Government
@@ -129,6 +119,21 @@ experiences:
       time: Jan/2013 - Nov/2016
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
+
+        - QlikView
+
+        INCLUDE: analytics with SAM
+
+        Main Projects:
+
+        - World Cup
+
+        - Painel Aviacao Civil
+
+        - Avaliacao de Projetos
+
+
+
         - Provide IT solutions to support the monitoring of the main Brazilian public projects (education, health, infrastructure, etc) 
         
         - Development of Dashboards using **QlikView** and **NPrinting** 
@@ -149,6 +154,9 @@ experiences:
       details: |
         Mapping business processes of the pre-salt fields of the major oil and gas company in Brazil. 
 
+        ARIS
+
+
     - role: Project Manager
       time: Mar/2008 - May/2009
       company: Accenture (Client Vale) – Vitória, ES, Brazil
@@ -156,6 +164,8 @@ experiences:
         - Management of IT projects regarding HR and Law processes 
         
         - Worked in an outsourcing contract for Vale (one of the largest mining company in the world)
+
+        Tools: Primavera Teamplayer
 
     - role: Ontology Developer
       time: Jan/2007 - Feb/2008
@@ -170,12 +180,12 @@ education:
       time: 2017 - 2019
       details: |
         Disciplines I have taken: 
-          - CMPT 726 - Machine Learning
-          - CMPT 741 - Data Mining
+          - CMPT 726 - Machine Learning (scikit-learn, )
+          - CMPT 741 - Data Mining (recommender systems, matrix factorization, )
           - CMPT 732 - Programming for Big Data I (Hadoop, Spark, MLLib, scikit-learn)
-          - CMPT 733 - Programming for Big Data II
+          - CMPT 733 - Programming for Big Data II ()
           - CMPT 706 - Algorithms for Big Data
-          - CMPT 825 - Natural Language Processing
+          - CMPT 825 - Natural Language Processing (nltk )
           - IAT 814 - Visualization and Visual Analytics (in course)
 
 
@@ -186,7 +196,7 @@ education:
         Thesis: Semantic Interoperability in Commercial off-the-shelf Applications using Domain Ontologies
         ([Portuguese only](https://github.com/gusfelhberg/gusfelhberg.github.io/raw/master/_files/BSc_Thesis_GustavoFelhberg_ptbr.pdf))
       
-
+        Areas of research: Domain Ontologies, Software Engineering
 
     
 
@@ -206,6 +216,8 @@ projects:
       - title: Recommender System, Data Mining Course, SFU
         link: "https://github.com/gusfelhberg/DataMining"
         tagline: "Development of a Recommender System for Yelp using Python"
+
+      - Process Mining
 
 skills:
     title: Technical Skills
