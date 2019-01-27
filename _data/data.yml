@@ -73,7 +73,7 @@ experiences:
       time: Apr/2018 - Dec/2018
       company: WorkSafeBC, Richmond-BC, Canada
       details: |
-        **Machine Learning:** Developed (**XGBoost**) models to identify Employers in the province with high likelihood of having serious injuries
+        **Machine Learning:** Developed **XGBoost** models to identify Employers in the province with high likelihood of having serious injuries
 
         **Natural Language Processing:**
 
@@ -120,20 +120,6 @@ experiences:
       company: Executive Office of the President of Brazil - Brasilia, DF, Brazil
       details: |
 
-        - QlikView
-
-        INCLUDE: analytics with SAM
-
-        Main Projects:
-
-        - World Cup
-
-        - Painel Aviacao Civil
-
-        - Avaliacao de Projetos
-
-
-
         - Provide IT solutions to support the monitoring of the main Brazilian public projects (education, health, infrastructure, etc) 
         
         - Development of Dashboards using **QlikView** and **NPrinting** 
@@ -154,7 +140,7 @@ experiences:
       details: |
         Mapping business processes of the pre-salt fields of the major oil and gas company in Brazil. 
 
-        ARIS
+        Main Tools: ARIS, Microsoft Vizio
 
 
     - role: Project Manager
@@ -165,7 +151,7 @@ experiences:
         
         - Worked in an outsourcing contract for Vale (one of the largest mining company in the world)
 
-        Tools: Primavera Teamplayer
+        - Main Tools: Primavera Teamplayer
 
     - role: Ontology Developer
       time: Jan/2007 - Feb/2008
@@ -180,14 +166,13 @@ education:
       time: 2017 - 2019
       details: |
         Disciplines I have taken: 
-          - CMPT 726 - Machine Learning (scikit-learn, )
-          - CMPT 741 - Data Mining (recommender systems, matrix factorization, )
-          - CMPT 732 - Programming for Big Data I (Hadoop, Spark, MLLib, scikit-learn)
-          - CMPT 733 - Programming for Big Data II ()
-          - CMPT 706 - Algorithms for Big Data
-          - CMPT 825 - Natural Language Processing (nltk )
-          - IAT 814 - Visualization and Visual Analytics (in course)
-
+          - CMPT 726 - Machine Learning (Scikit-learn, Keras)
+          - CMPT 741 - Data Mining (recommender systems)
+          - CMPT 732 - Programming for Big Data I (Hadoop, Spark, MLLib, Scikit-learn)
+          - CMPT 733 - Programming for Big Data II (Cassandra, Pandas, A/B Testing, D3.js)
+          - CMPT 706 - Algorithms for Big Data (optimization)
+          - CMPT 825 - Natural Language Processing (NLTK, SpaCy)
+          - IAT 814 - Visualization and Visual Analytics - in course (Tableau)
 
     - degree: BSc in Computer Science
       university: Federal University of Espírito Santo (http://internacional.ufes.br/en/)
@@ -217,23 +202,24 @@ projects:
         link: "https://github.com/gusfelhberg/DataMining"
         tagline: "Development of a Recommender System for Yelp using Python"
 
-      - Process Mining
-
 skills:
     title: Technical Skills
 
     toolset:
-      - name: Python & Pandas
-        level: 90%             
+      - name: Python
+        level: 95%     
 
-      - name: Scikit-Learn
+      - name: Natural Language Processing (NLTK, Sentiment Analysis, SpaCy)
+        level: 85%                
+
+      - name: Scikit-learn & XGBoost
         level: 80%
 
-      - name: Hadoop / PySpark / MLlib
-        level: 75%
+      - name: TensorFlow & Keras
+        level: 70%
 
-      - name: Natural Language Processing (nltk, gensim & SpaCy)
-        level: 85%
+      - name: PySpark / MLlib
+        level: 70%
 
       - name: SQL
         level: 80%
@@ -250,11 +236,15 @@ skills:
       - name: Matplotlib, Seaborn, Plotly & D3.js
         level: 75%
 
+      - name: Linux & UNIX
+        level: 75%  
+
+      - name: Web Scraping
+        level: 80%  
+
       - name: Git
         level: 70%  
 
-      - name: Project Management
-        level: 90%
 
 soft_skills:
     title: Soft Skills
